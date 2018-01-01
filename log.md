@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: , Monday January 1 2018
+### Day 1: Monday, January 1, 2018
 
 **Today's Progress**: 
   Created a basic ASP.NET MVC app
