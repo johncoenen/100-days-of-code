@@ -26,6 +26,7 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
   - TODO: fix issues with font awesome icons, change styling/markup to be more accessible
   
 **Link(s) to work**
+https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 
 ### Day 1: Wednesday, January 3, 2018
 
