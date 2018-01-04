@@ -38,3 +38,4 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
   - First time really using jQuery  
   
 **Link(s) to work**
+https://github.com/johncoenen/jQuery
