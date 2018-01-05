@@ -28,7 +28,7 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
 **Link(s) to work**
 https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 
-### Day 1: Wednesday, January 3, 2018
+### Day 3: Wednesday, January 3, 2018
 
 **Today's Progress**: 
   Playing around with jQUery UI draggable
@@ -40,3 +40,19 @@ https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
   
 **Link(s) to work**
 https://github.com/johncoenen/jQuery
+
+### Day 4: Thursday, January 4, 2018
+
+**Today's Progress**: 
+  Finished DOM tutorial called Understanding the DOM
+  
+**Thoughts** 
+  - Most of the work was done in the dev tools console so I will just link to the article
+  - Introduction to the DOM
+  - DOM trees and nodes
+  - Access elements in the DOM
+  - Traverse the DOM
+  - Change elements in the DOM
+  
+**Link(s) to work**
+https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
