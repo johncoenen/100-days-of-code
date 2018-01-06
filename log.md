@@ -31,7 +31,7 @@ https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 ### Day 3: Wednesday, January 3, 2018
 
 **Today's Progress**: 
-  Playing around with jQUery UI draggable
+  Begin looking at jQuery UI, starting with draggable DOM elements
   
 **Thoughts** 
   - Easy to user interface
