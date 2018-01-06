@@ -8,7 +8,7 @@
 **Thoughts** 
   - Nice to revisit Visual Studio after some time away
   - Learned the basic fundamentals that go into creating a MVC application
-  - Understand how Views are created and manipulated withing the ASP.NET stack
+  - Understand how Views are created and manipulated within the ASP.NET stack
   
 **Link(s) to work**
 
@@ -21,7 +21,7 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
   
 **Thoughts** 
   - Quick and dirty project
-  - Learned the basic fundamentals of HTML5 semantics and media queries
+  - Using HTML5 semantics and media queries
   - First time really using Emmet shorthand in VSCode!
   - TODO: fix issues with font awesome icons, change styling/markup to be more accessible
   
