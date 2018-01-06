@@ -56,3 +56,15 @@ https://github.com/johncoenen/jQuery
   
 **Link(s) to work**
 https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+
+### Day 5: Friday, January 5, 2018
+
+**Today's Progress**: 
+  Began HTML Forms tutorial, with emphasis on how screen readers interpret forms
+  
+**Thoughts** 
+  - Looked at how screen readers order the elements of a form
+  - Learned best practices for required field form elements
+  
+**Link(s) to work**
+
