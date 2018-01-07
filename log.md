@@ -69,3 +69,14 @@ https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-doc
 **Link(s) to work**
 https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 
+### Day 6 & 7: Sat/Sun, January 6/7, 2018
+
+**Today's Progress**: 
+  Continue HTML fors tutorials looking at payment form and formfield input widgets
+**Thoughts** 
+  - Built a payment form
+  - Tested checkboxes, radio buttons, submit, reset, anonymous buttons, etc...
+  
+**Link(s) to work**
+
+
