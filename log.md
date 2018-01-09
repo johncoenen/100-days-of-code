@@ -81,4 +81,17 @@ https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 https://github.com/johncoenen/HTML/tree/master/payment-form
 https://github.com/johncoenen/HTML/tree/master/form-fields
 
+### Day 8: Monday, January 8, 2018
+
+**Today's Progress**: 
+  Build ASP.NET Core Angular application from tutorial
+**Thoughts** 
+  - It's a miracle this works at all, but I will call this a win
+  - The tutorial was well written and I only had a few workarounds and bugs to deal with
+  - First time getting an Angular app running with Visual Studio 2017
+  - Will be continuing this tutorial tomorrow and adding enhancments  
+  
+**Link(s) to work**
+tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
+working demo: https://github.com/johncoenen/ASP.NET-Angular-Hello-World
 
