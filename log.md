@@ -95,3 +95,15 @@ https://github.com/johncoenen/HTML/tree/master/form-fields
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 working demo: https://github.com/johncoenen/ASP.NET-Angular-Hello-World
 
+### Day 9: Wednesday, January 10, 2018
+
+**Today's Progress**: 
+  Added developer-friendly enhancements to ASP.NET Core Angular app
+**Thoughts** 
+  - Proxy API calls to the ASP.NET Core Server using ng serve command
+**Link(s) to work**
+tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
+
+
+
+
