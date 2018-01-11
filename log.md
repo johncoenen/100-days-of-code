@@ -93,7 +93,7 @@ https://github.com/johncoenen/HTML/tree/master/form-fields
   
 **Link(s) to work**
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
-working demo: https://github.com/johncoenen/ASP.NET-Angular-Hello-World
+working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
 
 ### Day 9: Wednesday, January 10, 2018
 
@@ -111,7 +111,7 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Hello-World
 
 **Link(s) to work**
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
-
+1/10/2018 demo: https://github.com/johncoenen/ASP.NET-Angular-Starter 
 
 
 
