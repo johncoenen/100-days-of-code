@@ -113,5 +113,37 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 1/10/2018 demo: https://github.com/johncoenen/ASP.NET-Angular-Starter 
 
+### Day 10: Thursday, January 11, 2018
+
+**Today's Progress**: 
+  - Begin Angular Tutorial: Tour of Heroes
+  - complete steps 1 - 4 of tutorial
+    -- This app is data-driven and will enable the user to:
+      1. display a list of hero names
+      2. edit selected hero's details
+      3. navigate through different views of the hero's data
+    - Created the application shell which consists of a html, css, and typescript file
+      - created initial structure using Angular CLI
+      - learned Angular components display data
+      - used double curly braces syntax to display the app title
+    - Created the Hero Editor
+      - used the CLI to create a second HeroesComponent
+      - displayed the HeroesComponent by adding it to the AppComponent shell.
+      - applied the UppercasePipe to format the name
+      - used two-way data binding with the ngModel directive
+      - learned about the AppModule
+      - imported the FormsModule in the AppModule so that Angular would recognize and apply the ngModel directive
+      - learned the importance of declaring components in the AppModule  
+    - Created a display for Hereos List
+      - The Tour of Heroes app displays a list of heroes in a Master/Detail view.
+      - The user can select a hero and see that hero's details.
+      - used *ngFor to display a list
+      - used *ngIf to conditionally include or exclude a block of HTML
+      - learned to toggle a CSS style class with a class binding
+  
+**Link(s) to work**
+tutorial: https://angular.io/tutorial (Tour of Heroes)
+demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
+
 
 
