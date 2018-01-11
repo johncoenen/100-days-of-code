@@ -101,6 +101,14 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Hello-World
   Added developer-friendly enhancements to ASP.NET Core Angular app
 **Thoughts** 
   - Proxy API calls to the ASP.NET Core Server using ng serve command
+    -- this watches for changes to the code, transpiles the code, and reserves the code to localhost:4200 by default
+  - Enabled automatic re-compilation for ASP.NET Core
+    -- enables the ability to make changes to (server-side)code and show live changes in the already running Angular app
+  - In order to run both applications in watch mode:
+    -- First run: dotnet watch run (command)
+    -- Then run: ng serve --proxy-config proxy.config.json(command in another terminal)
+    -- Then browse to localhost:4200(default) to see live changes made to app
+
 **Link(s) to work**
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 
