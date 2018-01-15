@@ -163,10 +163,31 @@ demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
       - (maybe) change Thoughts area to include more information on the days lesson
         - more blog-like, where I will take the most important detail of the day and expand on the terminology 
       - Add another category where tech detail links can be added 
-  
-**Link(s) to work**
 
-https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
+### Day 12: Monday, January 15, 2018
+
+**Today's Progress**: 
+  - (cont.)Angular Tour of Heros
+    - Dipped into Angular Dependency Injection 
+    - added get data method to HeroService which is an asynchronous signature
+    - Used Observable and the RxJs Observable libray
+    - Used RxJs of() to return Observable of mock heroes ( Observable<Hero[]> )
+    - The component's ngOnInit lifecycle hook calls the HeroService method, not the constructor.
+    - You created a MessageService for loosely-coupled communication between classes.
+    - The HeroService injected into a component is created with another injected service, MessageService.
+
+**Thoughts** 
+  - still have to implement some changes in this structre, may wait til next project
+  - 1:01 - time spent on Services portion of this 
+  - This is one of the more important sections of the Tutorial. I am going to go back to the beginning
+    and write down the important areas of interest, up to this point, as a personal reference
+
+**Link(s) to work**
+https://github.com/johncoenen/Angular-Tour-Of-Heroes 
+
+
+
+
 
 
 
