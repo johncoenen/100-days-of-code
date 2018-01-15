@@ -145,5 +145,28 @@ tutorial: https://medium.com/@levifuller/building-an-angular-application-with-as
 tutorial: https://angular.io/tutorial (Tour of Heroes)
 demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
+### Day 11: Saturday, January 13, 2018
+
+**Today's Progress**: 
+  - (cont.)Angular Tour of Heros
+    - Created a separate, reusable HeroDetailComponent
+    - Used property binding
+      - this gives the parent HeroesComponent control over the child HeroDetailComponent
+    - Used the @Input decorator
+      - this makes the hero property available for binding by the external HeroesComponent
+  
+**Thoughts** 
+  - After this post I am going to begin implementing some small changes to the daily log format
+    - These are my notes for the areas that will remain/change:
+      - Keep timestamp for day, date, year
+        - add time spent per day using time tracking app
+      - (maybe) change Thoughts area to include more information on the days lesson
+        - more blog-like, where I will take the most important detail of the day and expand on the terminology 
+      - Add another category where tech detail links can be added 
+  
+**Link(s) to work**
+
+https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
+
 
 
