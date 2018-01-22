@@ -72,7 +72,7 @@ https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 ### Sat/Sun, January 6/7, 2018
 
 **Today's Progress**: 
-  Continue HTML fors tutorials looking at payment form and formfield input widgets
+  Continue HTML forms tutorials looking at payment form and formfield input widgets
 
 **Thoughts** 
   - Built a payment form
