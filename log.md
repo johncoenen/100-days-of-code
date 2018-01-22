@@ -1,4 +1,4 @@
-Personal Log - Tracking my coding progress
+### Personal Log 
 
 ### Monday, January 1, 2018
 
@@ -10,7 +10,7 @@ Personal Log - Tracking my coding progress
   - Learned the basic fundamentals that go into creating a MVC application
   - Understand how Views are created and manipulated within the ASP.NET stack
   
-**Link(s) to work**
+**Link(s)**
 
 https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
 
@@ -25,7 +25,7 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
   - First time really using Emmet shorthand in VSCode!
   - TODO: fix issues with font awesome icons, change styling/markup to be more accessible
   
-**Link(s) to work**
+**Link(s)**
 https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 
 ### Wednesday, January 3, 2018
@@ -38,7 +38,7 @@ https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
   - Less javascript than expected
   - First time really using jQuery  
   
-**Link(s) to work**
+**Link(s)**
 https://github.com/johncoenen/jQuery
 
 ### Thursday, January 4, 2018
@@ -66,18 +66,19 @@ https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-doc
   - Looked at how screen readers order the elements of a form
   - Learned best practices for required field form elements
   
-**Link(s) to work**
+**Link(s)**
 https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 
 ### Sat/Sun, January 6/7, 2018
 
 **Today's Progress**: 
   Continue HTML fors tutorials looking at payment form and formfield input widgets
+
 **Thoughts** 
   - Built a payment form
   - Tested checkboxes, radio buttons, submit, reset, anonymous buttons, etc...
   
-**Link(s) to work**
+**Link(s)**
 https://github.com/johncoenen/HTML/tree/master/payment-form
 https://github.com/johncoenen/HTML/tree/master/form-fields
 
@@ -85,13 +86,14 @@ https://github.com/johncoenen/HTML/tree/master/form-fields
 
 **Today's Progress**: 
   Build ASP.NET Core Angular application from tutorial
+  
 **Thoughts** 
   - It's a miracle this works at all, but I will call this a win
   - The tutorial was well written and I only had a few workarounds and bugs to deal with
   - First time getting an Angular app running with Visual Studio 2017
   - Will be continuing this tutorial tomorrow and adding enhancments  
   
-**Link(s) to work**
+**Link(s)**
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
 
@@ -99,6 +101,7 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
 
 **Today's Progress**: 
   Added developer-friendly enhancements to ASP.NET Core Angular app
+  
 **Thoughts** 
   - Proxy API calls to the ASP.NET Core Server using ng serve command
     -- this watches for changes to the code, transpiles the code, and reserves the code to localhost:4200 by default
@@ -109,7 +112,7 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
     -- Then run: ng serve --proxy-config proxy.config.json(command in another terminal)
     -- Then browse to localhost:4200(default) to see live changes made to app
 
-**Link(s) to work**
+**Link(s)**
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 1/10/2018 demo: https://github.com/johncoenen/ASP.NET-Angular-Starter 
 
@@ -141,7 +144,7 @@ tutorial: https://medium.com/@levifuller/building-an-angular-application-with-as
       - used *ngIf to conditionally include or exclude a block of HTML
       - learned to toggle a CSS style class with a class binding
   
-**Link(s) to work**
+**Link(s)**
 tutorial: https://angular.io/tutorial (Tour of Heroes)
 demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
@@ -182,9 +185,52 @@ demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
   - This is one of the more important sections of the Tutorial. I am going to go back to the beginning
     and write down the important areas of interest, up to this point, as a personal reference
 
-**Link(s) to work**
+**Link(s)**
 https://github.com/johncoenen/Angular-Tour-Of-Heroes 
 
+### Tuesday, January 16, 2018
+
+**Today's Progress**:
+  - Started a project currated by Sarah Drasner called Creating a Vue.js Serverless Checkout Form: Setup and Testing. 
+  - Set up Azure and Stripe accounts
+  - Configured basic serverless funciton application using Azure
+  - set up application architecture using node and npm
+
+**Thoughts**
+  - Straight forward and easy to follow tutorial with code examples made getting started a breeze
+
+**Link(s)**
+https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
+
+## Thursday, January 18, 2018
+
+**Today's Progress**:
+  - Continued on Vue.js-Azure-Stripe project
+  - Started working on part 2 of this series titled Creating a Vue.js Serverless Checkout Form: Stripe Function and Hosting.
+  - Couldn't get this to work properly and will have to come back once the other parts of the series are published.
+  - Something is not configured correctly btwn. Azure and Stripe, testing confirms some errors, but have yet to resolve these
+  
+## Friday, January 19, 2018
+
+**Today's Progress**:
+  - Revisiting jQuery, which I haven't used in awhile
+  - I am aware that jQuery is going out of style. In order to understand how Javascript(ES6) is being used to recreate this functionality, I feel I need to know how jQuery works.
+  - At the moment I am just going through the w3c website completing the small built in tutorials
+  
+## Saturday/Sunday, January 20/21, 2018
+
+**Today's Progress**:
+- Began the Wes Bos course on CSS Grid this weekend
+- Worked through 1 - 9 of the videos
+
+**Thoughts**
+- I have completed two other courses by Wes Bos and like the way he presents the overlying concepts
+- Really enjoy CSS Grid and was happy to dig in again 
+- Nice to finally use the Firefox dev tooling created for Grid
+
+**Links(s)**
+Link to free course:  https://cssgrid.io/
+Link to my work: https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
 
 
