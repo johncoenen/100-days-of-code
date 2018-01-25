@@ -232,7 +232,23 @@ https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
 Link to free course:  https://cssgrid.io/
 Link to my work: https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
+## Wednesday, January 24, 2018
 
+**Today's Progress**:
+- Worked through the Routing portion of the Angular Tour of Heroes tutorial
+
+**Thoughts**
+- Added the Angular router to navigate among different components.
+- Turned the AppComponent into a navigation shell with <a> links and a <router-outlet>.
+- Configured the router in an AppRoutingModule
+- Defined simple routes, a redirect route, and a parameterized route.
+- Used the routerLink directive in anchor elements.
+- Refactored a tightly-coupled master/detail view into a routed detail view.
+- Used router link parameters to navigate to the detail view of a user-selected hero.
+- Shared the HeroService among multiple components.
+
+**Link(s)**
+https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
 
 
