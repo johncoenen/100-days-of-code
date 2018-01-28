@@ -247,8 +247,23 @@ Link to my work: https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 - Used router link parameters to navigate to the detail view of a user-selected hero.
 - Shared the HeroService among multiple components.
 
+## Saturday, January 27, 2018
+
+**Today's Progress**:
+- Worked through the Http portion of the Angular Tour of Heroes tutorial
+- Finished the Tour of Heroes tutorial and completed the application!
+
+**Thoughts**
+- Added the necessary dependencies to use HTTP in the app.
+- Refactored HeroService to load heroes from a web API.
+- Extended HeroService to support post(), put(), and delete() methods.
+- Updated the components to allow adding, editing, and deleting of heroes.
+- Configured an in-memory web API.
+- Learned how to use Observables.
+
 **Link(s)**
 https://github.com/johncoenen/Angular-Tour-Of-Heroes
+
 
 
 
