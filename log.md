@@ -264,6 +264,20 @@ Link to my work: https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 **Link(s)**
 https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
+## Wednesday, January 31, 2018
+
+**Today's Progress**:
+- Continued CSS Grid Course work 
+- auto-fit and auto-fill
+- minmax() and media queries
+- grid-template-areas
+- naming areas in CSS grid
+
+**Link(s)**
+https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
+
+
+
 
 
 
