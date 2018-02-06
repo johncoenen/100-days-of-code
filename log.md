@@ -279,6 +279,7 @@ https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 ## Saturday/Sunday, February 3/4, 2018
 
 **Weekend Progress**:
+- Visited https://www.codecademy.com and completed 25% each of Python and SQL tutorials
 - Continued CSS Grid course
   - naming lines 
   - auto-flow-dense for Block Fitting
