@@ -276,6 +276,19 @@ https://github.com/johncoenen/Angular-Tour-Of-Heroes
 **Link(s)**
 https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
+## Saturday/Sunday, February 3/4, 2018
+
+**Weekend Progress**:
+- Continued CSS Grid course
+  - naming lines 
+  - auto-flow-dense for Block Fitting
+  - alignment and centering - similar to Flexbox
+  - reordering items
+  - 1st of the larger scoped projects - Nested Grid with Album Layout
+  
+**Link(s)**
+https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
+
 
 
 
