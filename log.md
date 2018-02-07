@@ -290,6 +290,19 @@ https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 **Link(s)**
 https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
+### Tuesday, February 6, 2018
+
+**Today's Progress**: 
+  - Worked through 1 - 9 of bash shell scripting tutorial
+  
+**Thoughts** 
+  - Not something i've ever delved into, but found quite educational and enjoyable
+  - side note: finally figured out how to change the colors in vim.rc
+  
+**Link(s)**
+
+https://www.shellscript.sh/case.html
+
 
 
 
