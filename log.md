@@ -300,8 +300,7 @@ https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
   - side note: finally figured out how to change the colors in vim.rc
   
 **Link(s)**
-
-https://www.shellscript.sh/case.html
+https://www.shellscript.sh/index.html
 
 
 
