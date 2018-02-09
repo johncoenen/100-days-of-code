@@ -302,6 +302,33 @@ https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 **Link(s)**
 https://www.shellscript.sh/index.html
 
+### Wednesday, February 7, 2018
+
+**Today's Progress**: 
+  - Refresher on SQL databases using Codecademy tutorial
+  
+**Thoughts** 
+  - Haven't created/used a ton of databases, so this is just a little brush up.
+
+**Link(s)**
+  - https://www.codecademy.com/learn
+  
+
+### Thursday, February 8, 2018
+
+**Today's Progress**: 
+  - Decided to look into Bootstrap
+  - Began W3 Schools tutorials
+  
+  **Thoughts** 
+  - Another area that I am not well versed in(use CSS3 instead for most of what I covered today, but there is a lot of other useful stuff here that will eventually be covered).
+  - Not as demanding as I thought, that being said I only just touched the basics today.
+
+**Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - 
+
+
 
 
 
