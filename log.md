@@ -328,6 +328,19 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
 
+### Sat./Sun., February 10/11, 2018
+
+**Today's Progress**: 
+  - More Bootstrap stuff
+    * Jumbotron
+    * Buttons
+  - Tooks some notes on Networking
+  - Looked at little more bash shell scripting(loops specifically)
+  - Need to learn more about grep as well  
+
+**Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
 
 
 
