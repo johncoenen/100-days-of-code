@@ -343,6 +343,17 @@ https://www.shellscript.sh/index.html
   - https://github.com/johncoenen/Bootstrap-w3schools
 
 
+### Tuesday, February 13, 2018
+
+**Today's Progress**: 
+  - More Bootstrap stuff
+    * Glyphicons
+    * Badges/Labels  
+
+**Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
+
 
 
 
