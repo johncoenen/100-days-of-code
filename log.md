@@ -354,6 +354,17 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
 
+### Thursday, February 15, 2018
+
+**Today's Progress**: 
+  - More Bootstrap continued
+  * Progress Bars
+  * Pagination
+  * Pager
+
+**Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
 
 
 
