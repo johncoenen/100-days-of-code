@@ -365,6 +365,29 @@ https://www.shellscript.sh/index.html
 **Link(s)**
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
+  
+  ### Sat/Sun, February 17/18, 2018
+
+**Today's Progress**: 
+  - More Bootstrap continued
+  * List Group
+  * Panels
+  * Dropdowns
+  
+  - Purchased a discounted CLI course from Remy Sharp
+  * Covered the first 10 introductory videos
+  * Going through the basics of using the command line on MAC | Windows | Linux
+  * Got to use the bash interface on Windows a little more
+  * Most of this was refresh material, but always good to hear/see how a pro does it
+  
+**Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
+  - https://remysharp.com/2017/03/15/terminal-training
+
+**Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
 
 
 
