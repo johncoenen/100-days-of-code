@@ -1,6 +1,6 @@
-### Personal Log 
+## Personal Log 
 
-### Monday, January 1, 2018
+## Monday, January 1, 2018
 
 **Today's Progress**: 
   Created a basic ASP.NET MVC app
@@ -14,7 +14,7 @@
 
 https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
 
-### Tuesday, January 2, 2018
+## Tuesday, January 2, 2018
 
 **Today's Progress**: 
   Created a basic responsive web app with HTML5 and CSS Media Queries(from demo)
@@ -28,7 +28,7 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
 **Link(s)**
 https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 
-### Wednesday, January 3, 2018
+## Wednesday, January 3, 2018
 
 **Today's Progress**: 
   Begin looking at jQuery UI, starting with draggable DOM elements
@@ -41,7 +41,7 @@ https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 **Link(s)**
 https://github.com/johncoenen/jQuery
 
-### Thursday, January 4, 2018
+## Thursday, January 4, 2018
 
 **Today's Progress**: 
   Finished DOM tutorial called Understanding the DOM
@@ -57,7 +57,7 @@ https://github.com/johncoenen/jQuery
 **Link(s) to work**
 https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
 
-### Friday, January 5, 2018
+## Friday, January 5, 2018
 
 **Today's Progress**: 
   Began HTML Forms tutorial, with emphasis on how screen readers interpret forms
@@ -69,7 +69,7 @@ https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-doc
 **Link(s)**
 https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 
-### Sat/Sun, January 6/7, 2018
+## Sat/Sun, January 6/7, 2018
 
 **Today's Progress**: 
   Continue HTML forms tutorials looking at payment form and formfield input widgets
@@ -82,7 +82,7 @@ https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 https://github.com/johncoenen/HTML/tree/master/payment-form
 https://github.com/johncoenen/HTML/tree/master/form-fields
 
-### Monday, January 8, 2018
+## Monday, January 8, 2018
 
 **Today's Progress**: 
   Build ASP.NET Core Angular application from tutorial
@@ -97,7 +97,7 @@ https://github.com/johncoenen/HTML/tree/master/form-fields
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
 
-### Wednesday, January 10, 2018
+## Wednesday, January 10, 2018
 
 **Today's Progress**: 
   Added developer-friendly enhancements to ASP.NET Core Angular app
@@ -116,7 +116,7 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
 tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
 1/10/2018 demo: https://github.com/johncoenen/ASP.NET-Angular-Starter 
 
-### Thursday, January 11, 2018
+## Thursday, January 11, 2018
 
 **Today's Progress**: 
   - Begin Angular Tutorial: Tour of Heroes
@@ -148,7 +148,7 @@ tutorial: https://medium.com/@levifuller/building-an-angular-application-with-as
 tutorial: https://angular.io/tutorial (Tour of Heroes)
 demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
-### Saturday, January 13, 2018
+## Saturday, January 13, 2018
 
 **Today's Progress**: 
   - (cont.)Angular Tour of Heros
@@ -167,7 +167,7 @@ demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
         - more blog-like, where I will take the most important detail of the day and expand on the terminology 
       - Add another category where tech detail links can be added 
 
-### Monday, January 15, 2018
+## Monday, January 15, 2018
 
 **Today's Progress**: 
   - (cont.)Angular Tour of Heros
@@ -188,7 +188,7 @@ demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
 **Link(s)**
 https://github.com/johncoenen/Angular-Tour-Of-Heroes 
 
-### Tuesday, January 16, 2018
+## Tuesday, January 16, 2018
 
 **Today's Progress**:
   - Started a project currated by Sarah Drasner called Creating a Vue.js Serverless Checkout Form: Setup and Testing. 
@@ -290,7 +290,7 @@ https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 **Link(s)**
 https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
-### Tuesday, February 6, 2018
+## Tuesday, February 6, 2018
 
 **Today's Progress**: 
   - Worked through 1 - 9 of bash shell scripting tutorial
@@ -302,7 +302,7 @@ https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 **Link(s)**
 https://www.shellscript.sh/index.html
 
-### Wednesday, February 7, 2018
+## Wednesday, February 7, 2018
 
 **Today's Progress**: 
   - Refresher on SQL databases using Codecademy tutorial
@@ -314,7 +314,7 @@ https://www.shellscript.sh/index.html
   - https://www.codecademy.com/learn
   
 
-### Thursday, February 8, 2018
+## Thursday, February 8, 2018
 
 **Today's Progress**: 
   - Decided to look into Bootstrap
@@ -328,7 +328,7 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
 
-### Sat./Sun., February 10/11, 2018
+## Sat./Sun., February 10/11, 2018
 
 **Today's Progress**: 
   - More Bootstrap stuff
@@ -343,7 +343,7 @@ https://www.shellscript.sh/index.html
   - https://github.com/johncoenen/Bootstrap-w3schools
 
 
-### Tuesday, February 13, 2018
+## Tuesday, February 13, 2018
 
 **Today's Progress**: 
   - More Bootstrap stuff
@@ -354,7 +354,7 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
 
-### Thursday, February 15, 2018
+## Thursday, February 15, 2018
 
 **Today's Progress**: 
   - More Bootstrap continued
@@ -366,7 +366,7 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
   
-  ### Sat/Sun, February 17/18, 2018
+## Sat/Sun, February 17/18, 2018
 
 **Today's Progress**: 
   - More Bootstrap continued
@@ -389,7 +389,7 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp
   - https://github.com/johncoenen/Bootstrap-w3schools
   
-  ### Wednesday February 21, 2018
+## Wednesday February 21, 2018
 **Today's Progress**:  
   - Bootstrap continued
   * Collapse
