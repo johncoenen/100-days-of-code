@@ -331,7 +331,7 @@ https://www.shellscript.sh/index.html
 ## Sat./Sun., February 10/11, 2018
 
 **Today's Progress**: 
-  - More Bootstrap stuff
+  -Bootstrap continued
     * Jumbotron
     * Buttons
   - Tooks some notes on Networking
@@ -346,7 +346,7 @@ https://www.shellscript.sh/index.html
 ## Tuesday, February 13, 2018
 
 **Today's Progress**: 
-  - More Bootstrap stuff
+  -Bootstrap continued
     * Glyphicons
     * Badges/Labels  
 
@@ -357,10 +357,10 @@ https://www.shellscript.sh/index.html
 ## Thursday, February 15, 2018
 
 **Today's Progress**: 
-  - More Bootstrap continued
-  * Progress Bars
-  * Pagination
-  * Pager
+  -Bootstrap continued
+    * Progress Bars
+    * Pagination
+    * Pager
 
 **Link(s)**
   - https://www.w3schools.com/bootstrap/default.asp
@@ -369,10 +369,10 @@ https://www.shellscript.sh/index.html
 ## Sat/Sun, February 17/18, 2018
 
 **Today's Progress**: 
-  - More Bootstrap continued
-  * List Group
-  * Panels
-  * Dropdowns
+  -Bootstrap continued
+    * List Group
+    * Panels
+    * Dropdowns
   
   - Purchased a discounted CLI course from Remy Sharp
   * Covered the first 10 introductory videos
@@ -391,10 +391,10 @@ https://www.shellscript.sh/index.html
   
 ## Wednesday February 21, 2018
 **Today's Progress**:  
-  - Bootstrap continued
-  * Collapse
-  * Tabs and Pills
-  * Navigation Menus
+  -Bootstrap continued
+    * Collapse
+    * Tabs and Pills
+    * Navigation Menus
   
   **Link(s)**
   - https://www.w3schools.com/bootstrap/default.asp
