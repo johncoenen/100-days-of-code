@@ -398,8 +398,28 @@ https://www.shellscript.sh/index.html
   
   **Link(s)**
   - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
 
+## Friday, February 23, 2018
+**Today's Progress**:  
+  - Bootstrap continued
+    - Forms
+    - Slow moving, lately, but getting a hang of things
 
+  **Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp
+  - https://github.com/johncoenen/Bootstrap-w3schools
+
+## Sunday/Monday February 25/26, 2018
+**Today's Progress**:  
+  - Bootstrap continued
+    - Inputs 
+    - Input Sizing
+    - Media Objects
+    
+  **Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp  
+  - https://github.com/johncoenen/Bootstrap-w3schools
 
 
 
