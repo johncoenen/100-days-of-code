@@ -426,12 +426,28 @@ https://www.shellscript.sh/index.html
   - Bootstrap continued
     - Carousel
     - Modal
-    - Popover
-    - Scrollspy
+    - Popover    
     
   **Link(s)**
   - https://www.w3schools.com/bootstrap/default.asp  
   - https://github.com/johncoenen/Bootstrap-w3schools
+
+  ## Monday March 5, 2018
+**Today's Progress**:
+  - Worked on this over several sessions last week
+  - Bootstrap (main area) Finished!
+    * Scrollspy
+      * Horizontal Nav Scrollspy
+      * Pills Sidebar Nav Scrollspy
+    * Affix
+      * Sticky Horizontal Navigation
+      * Sticky Vertical Navbar
+    * Filters
+    
+  **Link(s)**
+  - https://www.w3schools.com/bootstrap/default.asp  
+  - https://github.com/johncoenen/Bootstrap-w3schools
+
 
 
 
