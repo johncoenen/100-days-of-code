@@ -448,7 +448,15 @@ https://www.shellscript.sh/index.html
   - https://www.w3schools.com/bootstrap/default.asp  
   - https://github.com/johncoenen/Bootstrap-w3schools
 
+## Wednesday April 11, 2018
+**Today's Progress**:
+- Away for a bit, but now I'm back better than ever.
+- Haven't strayed from the code world, just reading a lot and not working on many projects
+- Beginning an online React course this week
+- Today I will be working on some of the pre-course material, specifically understanding the "this" keyword in Javascript
 
+**Link**
+- https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
 
 
