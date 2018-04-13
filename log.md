@@ -458,5 +458,18 @@ https://www.shellscript.sh/index.html
 **Link**
 - https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
+## Thursday April 12, 2018
+**Today's Progress**:
+- Watched first part of day one video and coded along
+- Used React CDN links
+- created simple first portion of first React app example
+
+**Links**
+Shout out to Tyler McGinnis for the free course!
+- https://tylermcginnis.com/
+- https://github.com/johncoenen/React_Bootcamp.git
+- CDN Links: https://reactjs.org/docs/cdn-links.html#___gatsby
+- React Devtools: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
 
 
