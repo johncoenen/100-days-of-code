@@ -471,5 +471,13 @@ Shout out to Tyler McGinnis for the free course!
 - CDN Links: https://reactjs.org/docs/cdn-links.html#___gatsby
 - React Devtools: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 
+## Friday April 13, 2018
+**Today's Progress**:
+- Finished second part of day1 video
+- Used create element API then moved on to components
+- Learned difference btwn. elements and components
+- Introduced to JSX
+- Used components to render UI elements using JSX
 
-
+**Links**
+- https://github.com/johncoenen/React_Bootcamp.git
