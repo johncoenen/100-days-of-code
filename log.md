@@ -494,3 +494,12 @@ Shout out to Tyler McGinnis for the free course!
 https://www.youtube.com/watch?v=NHfRLQuHjsU&t=1788s
 https://github.com/johncoenen/React_Bootcamp.git
 
+##Tuesday April 17, 2018
+** Today's Progress **
+- continue day two React Bootcamp video
+- code along with Gist 4
+- Remember this.setState will update the state then update the UI
+- React has a currentState method
+    - We create a function to remove a name from the friends list
+    - pass this function to this.setState using the currentState method
+    - this function returns and object that will update the state and merge with currentState and change the UI
