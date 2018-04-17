@@ -481,3 +481,16 @@ Shout out to Tyler McGinnis for the free course!
 
 **Links**
 - https://github.com/johncoenen/React_Bootcamp.git
+
+## Monday April 16, 2018
+**Today's Progress**:
+- Took notes on React Bootcamp Day 2 pre-reading (React Elements vs React Components)
+- Watched add coded along with first portion of day 2 video
+- Built simple friends list apps
+  - First using a Function Component 
+  - Second using a Class based Component
+  
+**Links**
+https://www.youtube.com/watch?v=NHfRLQuHjsU&t=1788s
+https://github.com/johncoenen/React_Bootcamp.git
+
