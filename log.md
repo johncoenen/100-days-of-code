@@ -507,3 +507,18 @@ https://github.com/johncoenen/React_Bootcamp.git
     - use this keyword on handle.RemoveFriends in the return method
     - used .bind(this) to specify where the this keyword is referencing so that the UI can be updated
     
+## Wednesday April 18, 2018
+**Today's Progress**:
+- finish Gist 6 of day two React Bootcamp
+- code along with Gist 6(friendsList_5.html)
+- Create the Add Friend Area
+- We get the user input from what is written in the form area and a submit button
+- Add state to the live componet then update the state when user pushes submit
+- Then we update the property in the JSX, needed to add onChange event to update the input
+- Finish the AddFriend function using this.setState passing it a function(=>) 
+- Return the new state and merge with previous state then concat new item onto that state
+- Add the new name to the list
+- Delete the name from the input box
+
+**Links**
+https://github.com/johncoenen/React_Bootcamp.git
