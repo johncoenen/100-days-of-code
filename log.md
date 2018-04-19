@@ -522,3 +522,12 @@ https://github.com/johncoenen/React_Bootcamp.git
 
 **Links**
 https://github.com/johncoenen/React_Bootcamp.git
+
+## Thursday April 19, 2018
+**Today's Progress**:
+- finish Gist 7 of day two React Bootcamp
+- code along with Gist 7(friendsList_6.html)
+- Added Active/Inactive friends areas and inputs 
+
+**Links*
+https://github.com/johncoenen/React_Bootcamp.git
