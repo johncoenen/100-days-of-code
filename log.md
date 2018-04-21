@@ -506,6 +506,9 @@ https://github.com/johncoenen/React_Bootcamp.git
     - Add delete button to App, passed prop to friends list in JSX area, add onClick event here as well
     - use this keyword on handle.RemoveFriends in the return method
     - used .bind(this) to specify where the this keyword is referencing so that the UI can be updated
+
+**Links**
+https://github.com/johncoenen/React_Bootcamp.git
     
 ## Wednesday April 18, 2018
 **Today's Progress**:
@@ -529,5 +532,5 @@ https://github.com/johncoenen/React_Bootcamp.git
 - code along with Gist 7(friendsList_6.html)
 - Added Active/Inactive friends areas and inputs 
 
-**Links*
+**Links**
 https://github.com/johncoenen/React_Bootcamp.git
