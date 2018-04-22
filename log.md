@@ -534,3 +534,24 @@ https://github.com/johncoenen/React_Bootcamp.git
 
 **Links**
 https://github.com/johncoenen/React_Bootcamp.git
+
+## Saturday/Sunday April 21-22, 2018
+**Today's Progress**:
+- No React this weekend, will continue this upcoming week
+- Completed chapters 1 - 4 for CLI for Front End Developers by Remy Sharp
+- Here is a list of the subject matter covered in these videos/chapters
+  - Navigating directores
+  - Navigation shortcuts
+  - Running applications
+  - Connecting programs using pipe(s)
+  - Searching through files using grep, . find, etc.
+  - String manipulation and Regular Expression (egrep)
+  - Head, tail, and less for outputing data
+  - Sort and Uniq for filtering data 
+  - Deleting all things
+  - Permissions with sudo, chmod, and chown
+  - Killing processes
+  - Health checking with df, du, top, and htop
+  
+  **Links**
+  https://remysharp.com/2017/03/15/terminal-training
