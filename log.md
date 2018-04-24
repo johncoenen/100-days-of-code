@@ -556,4 +556,19 @@ https://github.com/johncoenen/React_Bootcamp.git
   **Links**
   https://remysharp.com/2017/03/15/terminal-training
   
-  **46 days**
+  ## Monday April 23, 2018
+  ** Today's Progress**:
+  - Got a bit ahead of myself by accident and did the React-Bootcamp day 4 pre-reading
+  - Coded along with the video covering React Router v4
+  - The example is not working, but I will have to get this going using Create React App
+  - As of now it is just a messy .js file
+  - Important takaways:
+    - v4 uses Dynamic Routing
+    - everything is a component
+    - use the ({match}) property rather than hard coding routes so that if changes get made they don't need to be changed individually
+    - use ({match}) with template strings like $(match.url) to create routes
+    
+    **Links**
+    https://tylermcginnis.com/react-router-philosophy-introduction/
+  
+  **47 days**
