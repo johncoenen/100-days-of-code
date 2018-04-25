@@ -571,4 +571,21 @@ https://github.com/johncoenen/React_Bootcamp.git
     **Links**
     https://tylermcginnis.com/react-router-philosophy-introduction/
   
+  ## Tuesday April 24, 2018
+  **Today's Progress**:
+  - Day 3 Tyler McGinnis React Bootcamp part 1 of video
+  - Code along for Gists 1 - 3
+  - Takeaways:
+    - Learned about the course a React component takes during it's lifecycle
+    - Constructor->Rende->componentDidMount->componentDidUpdate->componentWillUnmount
+    - componentDidMount is the part of the life cycle where AJAX requests are made to APIs or databases to retrieve data
+  
+  **Links**:
+  https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist31.html
+  https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist32.html
+  https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist33.html
+  https://www.youtube.com/watch?v=Xa3DGGP4mLM&t=2829s
+  https://github.com/johncoenen/React_Bootcamp.git
+
+  
   **47 days**
