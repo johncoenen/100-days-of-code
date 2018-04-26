@@ -581,11 +581,27 @@ https://github.com/johncoenen/React_Bootcamp.git
     - componentDidMount is the part of the life cycle where AJAX requests are made to APIs or databases to retrieve data
   
   **Links**:
-  https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist31.html
-  https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist32.html
-  https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist33.html
-  https://www.youtube.com/watch?v=Xa3DGGP4mLM&t=2829s
-  https://github.com/johncoenen/React_Bootcamp.git
-
+  - https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist31.html
+  - https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist32.html
+  - https://github.com/jdmedlock/mcginnisreact/blob/master/Day3/gist33.html
+  - https://www.youtube.com/watch?v=Xa3DGGP4mLM&t=2829s
+  - https://github.com/johncoenen/React_Bootcamp.git
   
-  **47 days**
+   ## Wednesday April 25, 2018
+  **Today's Progress**:
+  - Day 3 Tyler McGinnis React Bootcamp part 2 of video
+  - Code along for Gists 4,5,6
+  - Takeaways:
+      - Add Loading UI to the app
+      - Cleanup simple Loading UI and add simple animation to it
+      - Looked at componentDidMount, componentDidUpdate, and componentWillUpdate in real world examples
+      
+  **Links**:
+  - https://www.youtube.com/watch?v=Xa3DGGP4mLM&t=2829s 
+  - https://github.com/johncoenen/React_Bootcamp.git 
+  - https://gist.github.com/tylermcginnis/33f883b4cfa7b8a4e449414b96171805
+  - https://gist.github.com/tylermcginnis/e3822fb9a73ecec62c814e4a14c3229e
+  - https://gist.github.com/tylermcginnis/29f885fdb5d9d5206e6fedc9168134aa
+  - 
+  
+  
