@@ -611,7 +611,7 @@ https://github.com/johncoenen/React_Bootcamp.git
   - https://gist.github.com/tylermcginnis/e3822fb9a73ecec62c814e4a14c3229e
   - https://gist.github.com/tylermcginnis/29f885fdb5d9d5206e6fedc9168134aa
   
-## Thursday April 26, 2018##
+## Thursday April 26, 2018
 **Todays Progress**:
 - Watched chapter 5 (1-7) videos for Remy Sharp's CLI for Frontend Developers crash course
 - Learned about some popular shells and how to customize them to your liking, fish shell z(zed)shell
@@ -622,9 +622,10 @@ https://github.com/johncoenen/React_Bootcamp.git
 - https://fishshell.com/
 - https://github.com/remy/dotfiles - lots of aliases and functions to snatch
 
-## Friday April 27,2018##
+## Friday April 27,2018
 **Today's Progress**:
 - Quick CSS Grid: Spanning and Placing Cardio session this morning
+
 **Link**:
 - https://codepen.io/ofoshoJC/pen/ZoWByZ
   
