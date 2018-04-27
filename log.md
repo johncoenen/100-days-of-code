@@ -602,6 +602,16 @@ https://github.com/johncoenen/React_Bootcamp.git
   - https://gist.github.com/tylermcginnis/33f883b4cfa7b8a4e449414b96171805
   - https://gist.github.com/tylermcginnis/e3822fb9a73ecec62c814e4a14c3229e
   - https://gist.github.com/tylermcginnis/29f885fdb5d9d5206e6fedc9168134aa
-  - 
+  
+##Thursday April 26, 2018##
+**Todays Progress**:
+- Watched chapter 5 (1-7) videos for Remy Sharp's CLI for Frontend Developers crash course
+- Learned about some popular shells and how to customize them to your liking, fish shell z(zed)shell
+- Worked with Aliases to create shortcuts for commands, as well as to run fuunctions
+
+**Links**
+- http://ohmyz.sh/ - popular z shell framework
+- https://fishshell.com/
+- https://github.com/remy/dotfiles - lots of aliases and functions to snatch
   
   
