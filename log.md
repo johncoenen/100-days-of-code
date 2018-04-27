@@ -613,5 +613,11 @@ https://github.com/johncoenen/React_Bootcamp.git
 - http://ohmyz.sh/ - popular z shell framework
 - https://fishshell.com/
 - https://github.com/remy/dotfiles - lots of aliases and functions to snatch
+
+##Friday April 27,2018##
+**Today's Progress**:
+- Quick CSS Grid: Spanning and Placing Cardio session this morning
+**Link**:
+- https://codepen.io/ofoshoJC/pen/ZoWByZ
   
   
