@@ -11,8 +11,7 @@
   - Understand how Views are created and manipulated within the ASP.NET stack
   
 **Link(s)**
-
-https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
+- https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
 
 ## Tuesday, January 2, 2018
 
@@ -26,7 +25,7 @@ https://github.com/johncoenen/ASP.NET-MVC---Basic-Template
   - TODO: fix issues with font awesome icons, change styling/markup to be more accessible
   
 **Link(s)**
-https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
+- https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
 
 ## Wednesday, January 3, 2018
 
@@ -39,7 +38,7 @@ https://github.com/johncoenen/QuickApps/tree/master/ResponsiveApp_HTML5_CSS
   - First time really using jQuery  
   
 **Link(s)**
-https://github.com/johncoenen/jQuery
+- https://github.com/johncoenen/jQuery
 
 ## Thursday, January 4, 2018
 
@@ -55,7 +54,7 @@ https://github.com/johncoenen/jQuery
   - Change elements in the DOM
   
 **Link(s) to work**
-https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+- https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
 
 ## Friday, January 5, 2018
 
@@ -67,7 +66,7 @@ https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-doc
   - Learned best practices for required field form elements
   
 **Link(s)**
-https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
+- https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
 
 ## Sat/Sun, January 6/7, 2018
 
@@ -79,8 +78,8 @@ https://github.com/johncoenen/HTML/tree/master/forms-screen_reader
   - Tested checkboxes, radio buttons, submit, reset, anonymous buttons, etc...
   
 **Link(s)**
-https://github.com/johncoenen/HTML/tree/master/payment-form
-https://github.com/johncoenen/HTML/tree/master/form-fields
+- https://github.com/johncoenen/HTML/tree/master/payment-form
+- https://github.com/johncoenen/HTML/tree/master/form-fields
 
 ## Monday, January 8, 2018
 
@@ -94,8 +93,9 @@ https://github.com/johncoenen/HTML/tree/master/form-fields
   - Will be continuing this tutorial tomorrow and adding enhancments  
   
 **Link(s)**
-tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
-working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
+- Tutorial: 
+    - https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa     - Demo: 
+    - https://github.com/johncoenen/ASP.NET-Angular-Starter
 
 ## Wednesday, January 10, 2018
 
@@ -113,8 +113,11 @@ working demo: https://github.com/johncoenen/ASP.NET-Angular-Starter
     -- Then browse to localhost:4200(default) to see live changes made to app
 
 **Link(s)**
-tutorial: https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
-1/10/2018 demo: https://github.com/johncoenen/ASP.NET-Angular-Starter 
+- Tutorial: 
+    - https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
+ 
+- Demo: 
+    - https://github.com/johncoenen/ASP.NET-Angular-Starter 
 
 ## Thursday, January 11, 2018
 
@@ -145,8 +148,10 @@ tutorial: https://medium.com/@levifuller/building-an-angular-application-with-as
       - learned to toggle a CSS style class with a class binding
   
 **Link(s)**
-tutorial: https://angular.io/tutorial (Tour of Heroes)
-demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
+- tutorial: 
+    - https://angular.io/tutorial (Tour of Heroes)
+- demo: 
+    - https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
 ## Saturday, January 13, 2018
 
@@ -185,8 +190,8 @@ demo: https://github.com/johncoenen/Angular-Tour-Of-Heroes
   - This is one of the more important sections of the Tutorial. I am going to go back to the beginning
     and write down the important areas of interest, up to this point, as a personal reference
 
-**Link(s)**
-https://github.com/johncoenen/Angular-Tour-Of-Heroes 
+**Link**
+- https://github.com/johncoenen/Angular-Tour-Of-Heroes 
 
 ## Tuesday, January 16, 2018
 
@@ -199,8 +204,8 @@ https://github.com/johncoenen/Angular-Tour-Of-Heroes
 **Thoughts**
   - Straight forward and easy to follow tutorial with code examples made getting started a breeze
 
-**Link(s)**
-https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
+**Link**
+- https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
 
 ## Thursday, January 18, 2018
 
@@ -229,8 +234,10 @@ https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
 - Nice to finally use the Firefox dev tooling created for Grid
 
 **Links(s)**
-Link to free course:  https://cssgrid.io/
-Link to my work: https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
+- Link to free course:  
+    - https://cssgrid.io/
+- Link to my work: 
+    -https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
 ## Wednesday, January 24, 2018
 
@@ -262,7 +269,7 @@ Link to my work: https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 - Learned how to use Observables.
 
 **Link(s)**
-https://github.com/johncoenen/Angular-Tour-Of-Heroes
+- https://github.com/johncoenen/Angular-Tour-Of-Heroes
 
 ## Wednesday, January 31, 2018
 
@@ -274,7 +281,7 @@ https://github.com/johncoenen/Angular-Tour-Of-Heroes
 - naming areas in CSS grid
 
 **Link(s)**
-https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
+- https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework
 
 ## Saturday/Sunday, February 3/4, 2018
 
@@ -491,8 +498,8 @@ Shout out to Tyler McGinnis for the free course!
   - Second using a Class based Component
   
 **Links**
-https://www.youtube.com/watch?v=NHfRLQuHjsU&t=1788s
-https://github.com/johncoenen/React_Bootcamp.git
+- https://www.youtube.com/watch?v=NHfRLQuHjsU&t=1788s
+- https://github.com/johncoenen/React_Bootcamp.git
 
 ## Tuesday April 17, 2018
 **Today's Progress**:
@@ -533,7 +540,7 @@ https://github.com/johncoenen/React_Bootcamp.git
 - Added Active/Inactive friends areas and inputs 
 
 **Links**
-https://github.com/johncoenen/React_Bootcamp.git
+- https://github.com/johncoenen/React_Bootcamp.git
 
 ## Saturday/Sunday April 21-22, 2018
 **Today's Progress**:
@@ -554,7 +561,7 @@ https://github.com/johncoenen/React_Bootcamp.git
   - Health checking with df, du, top, and htop
   
   **Links**
-  https://remysharp.com/2017/03/15/terminal-training
+  - https://remysharp.com/2017/03/15/terminal-training
   
   ## Monday April 23, 2018
   ** Today's Progress**:
@@ -569,7 +576,7 @@ https://github.com/johncoenen/React_Bootcamp.git
     - use ({match}) with template strings like $(match.url) to create routes
     
     **Links**
-    https://tylermcginnis.com/react-router-philosophy-introduction/
+    - https://tylermcginnis.com/react-router-philosophy-introduction/
   
   ## Tuesday April 24, 2018
   **Today's Progress**:
@@ -603,7 +610,7 @@ https://github.com/johncoenen/React_Bootcamp.git
   - https://gist.github.com/tylermcginnis/e3822fb9a73ecec62c814e4a14c3229e
   - https://gist.github.com/tylermcginnis/29f885fdb5d9d5206e6fedc9168134aa
   
-##Thursday April 26, 2018##
+## Thursday April 26, 2018##
 **Todays Progress**:
 - Watched chapter 5 (1-7) videos for Remy Sharp's CLI for Frontend Developers crash course
 - Learned about some popular shells and how to customize them to your liking, fish shell z(zed)shell
@@ -614,7 +621,7 @@ https://github.com/johncoenen/React_Bootcamp.git
 - https://fishshell.com/
 - https://github.com/remy/dotfiles - lots of aliases and functions to snatch
 
-##Friday April 27,2018##
+## Friday April 27,2018##
 **Today's Progress**:
 - Quick CSS Grid: Spanning and Placing Cardio session this morning
 **Link**:
