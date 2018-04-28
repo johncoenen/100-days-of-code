@@ -625,8 +625,21 @@ https://github.com/johncoenen/React_Bootcamp.git
 ## Friday April 27,2018
 **Today's Progress**:
 - Quick CSS Grid: Spanning and Placing Cardio session this morning
+- Create quick grid example also on codepen
 
 **Link**:
 - https://codepen.io/ofoshoJC/pen/ZoWByZ
+- https://codepen.io/ofoshoJC/full/JvbwGE
+
+## Saturday April 28,2018
+**Today's Progress**:
+- Little UI lesson from Medium article on creating Flexbox UI
+- Need to make this responsive, maybe go back and finish the other suggestios(Facebook, Github, Medium)
+- Love the magic that happens using margin: auto inside the twitter__bird styles
+- TODO: try this with Grid / Grid + Flexbox fallbacks
+
+**Link**:
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
+- https://codepen.io/ofoshoJC/pen/JvEXwx?editors=1100
   
   
