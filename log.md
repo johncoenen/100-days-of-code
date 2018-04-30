@@ -631,7 +631,7 @@ https://github.com/johncoenen/React_Bootcamp.git
 - https://codepen.io/ofoshoJC/pen/ZoWByZ
 - https://codepen.io/ofoshoJC/full/JvbwGE
 
-## Saturday April 28,2018
+## Saturday April 28, 2018
 **Today's Progress**:
 - Little UI lesson from Medium article on creating Flexbox UI
 - Need to make this responsive, maybe go back and finish the other suggestios(Facebook, Github, Medium)
@@ -641,5 +641,16 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Link**:
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
 - https://codepen.io/ofoshoJC/pen/JvEXwx?editors=1100
+
+## Sunday April 29, 2018
+**Today's Progress**:
+- Coded along with the video on Bootsrappy CSS Grid with CSS variables in Wes Bos's CSS Grid video course
+- Used CSS variables to set span sizing of grid items using them as inline style elements
+- Pseudo framework of how to create a Bootstrap like grid with raw css(grid and variables together)
+
+**Links**:
+- https://cssgrid.io/?ref=prototyprio
+- https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework/tree/master/24%20-%20BootstrappyGridwithCSSVariables
+
   
   
