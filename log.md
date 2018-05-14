@@ -652,5 +652,18 @@ https://github.com/johncoenen/React_Bootcamp.git
 - https://cssgrid.io/?ref=prototyprio
 - https://github.com/johncoenen/CSS-Grid-with-Wes-Bos-Coursework/tree/master/24%20-%20BootstrappyGridwithCSSVariables
 
+## Friday, Saturday, Sunday May 4,5,6 2018
+- Started a new repo for some example websites
+- Goal: Portfolio/Proof of Concept Website pushing my personal brand
+- Using Bootstrap 4 and Bootstrap Material Design
+- Loosely working off a template from viewing source code for: https://mdbootstrap.com/previews/templates/portfolio/html/graphic-designer.html#
+- Looking up stuff I don't know along the way and implementing what I like as I build the site by section
+- Quick brush up on git some too at:
+  - https://www.codecademy.com/learn/learn-git
+**Links**
+- https://github.com/johncoenen/Web-Site-Examples
+- https://fezvrasta.github.io/bootstrap-material-design/
+
+
   
   
