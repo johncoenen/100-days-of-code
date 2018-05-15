@@ -664,6 +664,15 @@ https://github.com/johncoenen/React_Bootcamp.git
 - https://github.com/johncoenen/Web-Site-Examples
 - https://fezvrasta.github.io/bootstrap-material-design/
 
+## Monday May 7, 2018
+- continued working on portfolio demo site
+- Not implementing the Jarallax library yet
+- Tommorow = look at Jarallax tutorials
+- not sold on parallax scrolling, may have to keep this demo parallax free
+
+**Links**
+-- https://github.com/johncoenen/Web-Site-Examples
+
 
   
   
