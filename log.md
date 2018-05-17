@@ -673,6 +673,23 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
 -- https://github.com/johncoenen/Web-Site-Examples
 
+## Monday May 14, 2018
+- Picked up Atomic Design by Brad Frost
+- Start looking at Pattern Lab
 
+## Tuesday May 15, 2018
+- Couldn't really get up and running with Pattern Lab node or php versions
+- Kind of tricky install - had to find a compatable version of node
+- At the end of the day I couldn't get either set up nailed down, will look at Pattern Lab 2 tommorow
+
+## Wednesday May 16, 2018
+- Installed the PHP version of Pattern Lab 2 on Ubuntu 16.04
+- Seems to be working at the moment 
+- Some take aways:
+  - Need mustache installed in order to use the templating language
+  - For PHP, Composer needs to be installed(locally or globally) for Pattern Lab to run
+  - Pattern Lab comes with a built in server to run on
+  - Need to learn mustache syntax to get started using pattern lab
+  - Not quite sure how this works yet, my guess is that I need to mess with the JSON file to output data through the mustache file(s)
   
   
