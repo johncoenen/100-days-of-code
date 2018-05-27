@@ -706,4 +706,7 @@ https://github.com/johncoenen/React_Bootcamp.git
 - Another uneventful week
 - A lot of interview prep stuff this week in lieu of code
 - I did manage to find some time to get in a little Codpen action. Was inspired by the Netflix series Mindhunter and how they introduce the setting using text: https://codepen.io/ofoshoJC/pen/yjmzWN
+- The text-shadow effect overlaps on smaller devices, but it remains legible
+- The text and image in the header are responsive, and the lorem... dummy text was added to see how it would look with a page layout
+
 
