@@ -701,3 +701,9 @@ https://github.com/johncoenen/React_Bootcamp.git
 
 ** Links **
 - https://codepen.io/ofoshoJC/full/erxGOE
+
+## Saturday May 26, 2018
+- Another uneventful week
+- A lot of interview prep stuff this week in lieu of code
+- I did manage to find some time to get in a little Codpen action. Was inspired by the Netflix series Mindhunter and how they introduce the setting using text: https://codepen.io/ofoshoJC/pen/yjmzWN
+
