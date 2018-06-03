@@ -717,11 +717,11 @@ https://github.com/johncoenen/React_Bootcamp.git
 - These are sometimes verbatim written from the tutorials, I would never use this material for a live project because, duh!, plagarism.
 - This just helps me commit stuff to memory
 
-** Today's progress:**
+**Today's progress:**
   - Basic Forms
   - Form Structure
   - Native Widgets
 
 **Links**
- *https://github.com/johncoenen/Forms
- *https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms 
+  - https://github.com/johncoenen/Forms
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms 
