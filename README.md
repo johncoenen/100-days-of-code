@@ -699,9 +699,6 @@ https://github.com/johncoenen/React_Bootcamp.git
 - Created a svg illustration which was then converted to jpg format
 - Used the illustration as a background image in Codpen and made it cover the entire screen responsively
 
-** Links **
-- https://codepen.io/ofoshoJC/full/erxGOE
-
 ## Saturday May 26, 2018
 - Another uneventful week
 - A lot of interview prep stuff this week in lieu of code
@@ -710,3 +707,20 @@ https://github.com/johncoenen/React_Bootcamp.git
 - The text and image in the header are responsive, and the lorem... dummy text was added to see how it would look with a page layout
 
 
+## Saturday June 3, 2018
+- Not a lot of code this week
+- Spent most of my time preparing for interviews
+- Did get some time in today working on a new repo for all things forms
+- This is a skill-set employers are looking for in frontend devs
+- Starting with the good old standby, MDN Forms 
+- Completed three sections dealing with form elements
+- These are sometimes verbatim written from the tutorials, I would never use this material for a live project because, duh!, plagarism.
+- This just helps me commit stuff to memory
+
+** Today's progress:**
+  - Basic Forms
+  - Form Structure
+  - Native Widgets
+
+**Links**
+- 
