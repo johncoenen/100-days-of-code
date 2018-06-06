@@ -725,3 +725,14 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
   - https://github.com/johncoenen/Forms
   - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms 
+  
+## June 5/6, 2018
+ - ...more MDN form stuff....
+ - added Native Form Widget sectiom to repo
+ - added Advanced Form Widget section to repo
+ - Am going to skip the last (Other Widget) section for now and move on to more advanced form handling
+ - took too long with this section doing every example, which is mirror, sort of, the Bootsrap W3 tutorials 
+
+**Links**
+  - https://github.com/johncoenen/Forms
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms 
