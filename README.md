@@ -735,4 +735,21 @@ https://github.com/johncoenen/React_Bootcamp.git
 
 **Links**
   - https://github.com/johncoenen/Forms
-  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms 
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+  
+## June 8, 2018
+ - ...more MDN form stuff....
+ - Started refresher on HTTP protocol and how forms are sent
+
+**Links**
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data
+
+## June 9, 2018
+ - Decided to take a break from forms, moved on to using Github Pages
+ - Changed my Terminator theme too!
+ - Opened a repo for a portfolio style website
+ - Spent the rest of the evening looking at responsive background images, for a landing page, using webp and jpg formats with media queries, in HTML
+
+**Links**
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data
+  - https://github.com/johncoenen/johncoenen.github.io
