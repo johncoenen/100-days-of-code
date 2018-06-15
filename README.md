@@ -753,3 +753,15 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
   - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data
   - https://github.com/johncoenen/johncoenen.github.io
+  
+  ## June 13/14 2018
+ - back to form stuff
+ - Added section on sending data along with how the GET & POST methods work
+ - Reviewed differences btwn. sending in the browser(client side) versus sending data to the server(server side)
+ - Began section on form validation
+
+**Links**
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
+  - https://github.com/johncoenen/Forms/tree/master/Validation
+  - https://github.com/johncoenen/Forms/tree/master/SendingData
