@@ -764,3 +764,21 @@ https://github.com/johncoenen/React_Bootcamp.git
   - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
   - https://github.com/johncoenen/Forms/tree/master/Validation
   - https://github.com/johncoenen/Forms/tree/master/SendingData
+
+  ## June 16/17 2018
+ - back to MDN: Form Validation
+ - Looked at different types of HTML form validation
+   - Client side validation
+   - Server side validation
+   - constarints on inputs
+   - required field
+   - regex validation
+   - constarining length
+ - Validation with Javasctipt methods
+ - create custom error messages using the constraint validation API
+ - TODO: finsih up final section
+ 
+ **Links**
+ - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
+ - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation
+ - https://github.com/johncoenen/Forms
