@@ -776,9 +776,18 @@ https://github.com/johncoenen/React_Bootcamp.git
    - constarining length
  - Validation with Javasctipt methods
  - create custom error messages using the constraint validation API
- - TODO: finsih up final section
  
  **Links**
  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
  - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation
  - https://github.com/johncoenen/Forms
+ 
+ ## June 18, 2018
+ - Started customizable form widgets section of MDN: Forms
+ - Designed the types of state we would be using: active, open, value change
+ - styled the widget to show when user has selected an item in the options list
+ - TODO: tomorrow complete the javascript section and give the widget some life
+ 
+ **Links**
+ - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
+ - https://github.com/johncoenen/Forms/tree/master/CustomFormWidgets
