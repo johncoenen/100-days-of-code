@@ -791,3 +791,15 @@ https://github.com/johncoenen/React_Bootcamp.git
  **Links**
  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
  - https://github.com/johncoenen/Forms/tree/master/CustomFormWidgets
+ 
+ ## June 19, 2018
+ - Short session today
+ - Added some Javascript and CSS selectors to hide form elements as fallback if js is not working.
+ - Most browsers fully support Javascript now, so this is not a huge issue
+ - Ran into an error that wanted me to set mouse scroll events to "passive" 
+ - TODO:  try running the script with only one widget option, and look into setting events as "passive"
+ - TODO: finish up final portion of the custom form widgets section 
+ 
+ **Links**
+ - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
+ - https://github.com/johncoenen/Forms/tree/master/CustomFormWidgets
