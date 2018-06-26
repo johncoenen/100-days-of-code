@@ -803,3 +803,17 @@ https://github.com/johncoenen/React_Bootcamp.git
  **Links**
  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
  - https://github.com/johncoenen/Forms/tree/master/CustomFormWidgets
+ 
+ # June 25, 2018
+ - More with MDN Forms, today I added the second version of the form which will leverage the DOM API to do the work 
+ - This form will use callbacks to initialize the elements
+ - Added event handlers for:
+    - selecting an option from the dropdown list
+    - activate/deactivate the widget
+    - turn on/off the active state of the widget 
+    - open/close the list of options
+    - highlight the selected option in the dropdown list
+    
+  **Links**
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
+  - https://github.com/johncoenen/Forms/blob/master/widget_1.02.html
