@@ -817,3 +817,14 @@ https://github.com/johncoenen/React_Bootcamp.git
   **Links**
   - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
   - https://github.com/johncoenen/Forms/blob/master/widget_1.02.html
+
+# June 26/27, 2018
+- MDN Forms:
+  - worked on handling the changing dropdown values from the option list
+  - worked on binding custom widget with native widget
+  - still have some work to do to get this correct, but much progress was made
+  - on to v1.05 of this widget
+  
+**Links**
+- https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
+- https://github.com/johncoenen/Forms/tree/master/CustomFormWidgets
