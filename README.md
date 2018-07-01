@@ -828,3 +828,12 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
 - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
 - https://github.com/johncoenen/Forms/tree/master/CustomFormWidgets
+
+# June 29/30
+- MDN Forms:
+  - finished working example of widget 
+  - added ARIA accesibility for assitive technologies
+
+**Links**
+- https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
+- https://github.com/johncoenen/Forms/blob/master/CustomFormWidgets/widget1.06.html
