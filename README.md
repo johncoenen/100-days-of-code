@@ -835,5 +835,22 @@ https://github.com/johncoenen/React_Bootcamp.git
   - added ARIA accesibility for assitive technologies
 
 **Links**
-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
+- https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgetsF
 - https://github.com/johncoenen/Forms/blob/master/CustomFormWidgets/widget1.06.html
+
+
+# July 7/8
+- Note: add anything I may have missed btwn end of June and this date...Note2- wordpress build for portfolio
+- Began working on some typesetting for the web
+- Taking inspirartion from print and photo shop documents to create responisve web pages
+- Created an "About" page template using HTML5
+- Created a responsive layout using Flexbox, percentages, and rem units for fonts
+- Using Google fonts for type
+
+- TODO: 
+  - complete lower portion of the page along with footer
+  - possibly add media queries to avoid breaking on different devices, but so far it works alright
+
+**Links**
+- https://github.com/johncoenen/Web-Typography
+- https://codepen.io/ofoshoJC/pen/XYvjZd?editors=1100
