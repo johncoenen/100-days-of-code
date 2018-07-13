@@ -839,7 +839,7 @@ https://github.com/johncoenen/React_Bootcamp.git
 - https://github.com/johncoenen/Forms/blob/master/CustomFormWidgets/widget1.06.html
 
 
-# July 7/8
+# July 7/8 2018
 - Note: add anything I may have missed btwn end of June and this date...Note2- wordpress build for portfolio
 - Began working on some typesetting for the web
 - Taking inspirartion from print and photo shop documents to create responisve web pages
@@ -854,3 +854,12 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
 - https://github.com/johncoenen/Web-Typography
 - https://codepen.io/ofoshoJC/pen/XYvjZd?editors=1100
+
+# July 12 2018
+- worked on some prototyping using Figma
+- Figma is cool, really intuitive and easy to jump into
+- Started a webpage layout
+- Need to learn more about how layers work in Figma in order to export something tangible
+
+**Links**
+- https://www.figma.com/file/OFl7SmRmpkhbvNOfmMXHLZn4/SPA-1
