@@ -864,3 +864,9 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
 - https://www.figma.com/file/OFl7SmRmpkhbvNOfmMXHLZn4/SPA-1
 
+# July 17 2018
+- just a little prototyping today...
+
+**Links**
+- https://www.figma.com/file/NnqSRcFYj6tnyBwr0Z92aoeL/Card-Layout
+
