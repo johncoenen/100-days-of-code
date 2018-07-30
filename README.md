@@ -870,3 +870,36 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links**
 - https://www.figma.com/file/NnqSRcFYj6tnyBwr0Z92aoeL/Card-Layout
 
+# July 21,22 2018
+- more prototyping with figma
+- this is an excellent tool for creating visual mock ups of logos, websites, forms, icon sets, style tiles, etc
+- made a mock logo - https://www.figma.com/file/dL42spYGodJdoG3wPGWRB8lg/PipelineProductions
+- made a font combination card - https://www.figma.com/file/cY66BctlOAPBgMtDCelECeiX/Oswald-and-EB-Garamond
+
+#July 24 2018
+- FIGMA!
+- made a master component prototype that includes icons, font, and button styles.
+- https://www.figma.com/file/ZAe7byBFcUO8PA3HNglzTxUf/Component-Ex.
+
+#July 25 2018
+- again with the Figma
+- made a simple phone login form w/ button
+- https://www.figma.com/file/UAzgJSW5DRb5zSmLL7djgXWW/LOGIN
+
+#July 26 2018
+- you guessed it, more Figma
+- made a media object with nested media objects prototype
+- https://www.figma.com/file/0h0QWx8Ec9KnJJ2RZYKicEta/Media-Object
+
+# July 28 2018
+- began working on github page that will be used as my portfolio
+- basic template w/ HTML & CSS complete
+- https://github.com/johncoenen/johncoenen.github.io
+
+# July 29 2018
+- made some tweaks, took out CSS reset and used normalizer instead
+- got the navigation, heading, and blockquote to where I want them
+- https://github.com/johncoenen/johncoenen.github.io
+
+
+
