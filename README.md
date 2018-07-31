@@ -876,17 +876,17 @@ https://github.com/johncoenen/React_Bootcamp.git
 - made a mock logo - https://www.figma.com/file/dL42spYGodJdoG3wPGWRB8lg/PipelineProductions
 - made a font combination card - https://www.figma.com/file/cY66BctlOAPBgMtDCelECeiX/Oswald-and-EB-Garamond
 
-#July 24 2018
+# July 24 2018
 - FIGMA!
 - made a master component prototype that includes icons, font, and button styles.
 - https://www.figma.com/file/ZAe7byBFcUO8PA3HNglzTxUf/Component-Ex.
 
-#July 25 2018
+# July 25 2018
 - again with the Figma
 - made a simple phone login form w/ button
-- https://www.figma.com/file/UAzgJSW5DRb5zSmLL7djgXWW/LOGIN
+- https://www.figma.com/file/UAzgJSW5DRb5zSmLL7djgXWW/LOGIN 
 
-#July 26 2018
+# July 26 2018
 - you guessed it, more Figma
 - made a media object with nested media objects prototype
 - https://www.figma.com/file/0h0QWx8Ec9KnJJ2RZYKicEta/Media-Object
@@ -901,5 +901,8 @@ https://github.com/johncoenen/React_Bootcamp.git
 - got the navigation, heading, and blockquote to where I want them
 - https://github.com/johncoenen/johncoenen.github.io
 
-
-
+# July 30 2018
+- added additional media queries for when design breaks, rather than for devices, via advice from Smashing article by Rachel Andrew
+- whole page is responsive, need to figure out how to repeat this throughout site
+- TODO: complete footer section with icons, add actual images
+- - https://github.com/johncoenen/johncoenen.github.io
