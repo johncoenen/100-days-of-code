@@ -906,3 +906,15 @@ https://github.com/johncoenen/React_Bootcamp.git
 - whole page is responsive, need to figure out how to repeat this throughout site
 - TODO: complete footer section with icons, add actual images
 - - https://github.com/johncoenen/johncoenen.github.io
+
+# Vacation.....
+
+# August 16-19 2018
+- created a repo for CSS grid refresher 
+- Using Grid By Example website as reference
+- going through examples 
+- getting better with Emmit for HTML and CSS
+
+**Links
+-https://github.com/johncoenen/css-grid-refresh
+-https://gridbyexample.com/
