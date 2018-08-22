@@ -928,3 +928,6 @@ https://github.com/johncoenen/React_Bootcamp.git
 * https://github.com/johncoenen/css-grid-refresh
 * https://gridbyexample.com/
 * https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
+
+# August 22 2018
+* updated .json in Angular-Tour-Of-Heroes repo
