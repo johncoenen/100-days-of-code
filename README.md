@@ -918,3 +918,13 @@ https://github.com/johncoenen/React_Bootcamp.git
 **Links
 -https://github.com/johncoenen/css-grid-refresh
 -https://gridbyexample.com/
+
+# August 21 2018
+- quick grid by example addition to css refresher repo 
+- added section that shows why clearing with floats isn't necessary when using grid, because content will stay within the assigned grid tracks
+- began demo of a music app using css grid from a Medium article
+
+**Links
+-https://github.com/johncoenen/css-grid-refresh
+-https://gridbyexample.com/
+-https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
