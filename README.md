@@ -939,3 +939,5 @@ https://github.com/johncoenen/React_Bootcamp.git
 * add grid source independence, the big take away being that the "ads" div(s) are added beneath the content elements
 * This gives us the opportunity to keep the content and ads sections organized and compartmentalized
 * https://github.com/johncoenen/css-grid-refresh/tree/master/grid-by-example/grid-source-independence
+
+# 95
