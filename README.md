@@ -940,4 +940,10 @@ https://github.com/johncoenen/React_Bootcamp.git
 * This gives us the opportunity to keep the content and ads sections organized and compartmentalized
 * https://github.com/johncoenen/css-grid-refresh/tree/master/grid-by-example/grid-source-independence
 
-# 95
+# September 12 2018
+* added new item position context to css grid by example repo
+* takeaway: items can be relatively positioned inside of the div
+* this makes the images stay inside the area while everyting else sizes accordingly
+* https://github.com/johncoenen/css-grid-refresh/tree/master/grid-by-example/grid-item-positioning-context
+
+# 96
