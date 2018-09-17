@@ -946,4 +946,11 @@ https://github.com/johncoenen/React_Bootcamp.git
 * this makes the images stay inside the area while everyting else sizes accordingly
 * https://github.com/johncoenen/css-grid-refresh/tree/master/grid-by-example/grid-item-positioning-context
 
-# 96
+# September 17 2018
+* added auto flow colum section to css grid by example files
+* auto-flow set with column will create new columns to flow into if necessary
+* https://github.com/johncoenen/css-grid-refresh
+* Hired as a Data Center Tech by Google!
+* Home stretch here...
+
+# 97
