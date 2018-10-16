@@ -953,4 +953,11 @@ https://github.com/johncoenen/React_Bootcamp.git
 * Hired as a Data Center Tech by Google!
 * Home stretch here...
 
-# 97
+# October 16 2018
+* Continued working on CSS Grid outside of this project
+* Started looking at the Python language
+* Set up environment and install
+* Class and Object
+* https://github.com/johncoenen/beginner-python
+
+# 98
