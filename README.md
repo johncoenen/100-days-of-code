@@ -960,4 +960,11 @@ https://github.com/johncoenen/React_Bootcamp.git
 * Class and Object
 * https://github.com/johncoenen/beginner-python
 
-# 98
+# October 20 2018
+* Work on Python beginner tutorial 
+* https://docs.python.org/3/tutorial/controlflow.html
+* Run through numbers, strings, lists, and the while statement
+* Using if and for statements
+* the range() function
+
+# 99
