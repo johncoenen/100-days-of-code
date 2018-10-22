@@ -967,4 +967,16 @@ https://github.com/johncoenen/React_Bootcamp.git
 * Using if and for statements
 * the range() function
 
-# 99
+# 100!
+# October 21 2018
+* Continue with Python tutorials
+* covered more statements: break, continue, and else clauses on loops
+* learned about the pass statement
+* worked on defining functions
+  * default argument values
+  * keyword arguments
+  * arbitray argument lists 
+  * unpacking argument lists 
+  * Lamda expressions
+  
+  * Thats all for now, on to the next 100 days...
